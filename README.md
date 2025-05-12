@@ -1,1 +1,0 @@
-# shishidouizumi_newyear_v2_768

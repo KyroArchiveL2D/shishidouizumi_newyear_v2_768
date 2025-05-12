@@ -1,0 +1,97 @@
+{
+  "SettingModel": {
+    "version": 5,
+    "skel": "CH0197_home.skel",
+    "atlas": "CH0197_home.atlas",
+    "eyeTouch": "Touch_Me",
+    "idol": "Idle_01",
+    "x": 690,
+    "y": 845,
+    "scale": 0.45,
+    "angle": 0,
+    "bgmVolume": 0.1,
+    "talkVolume": 0.45,
+    "showTouch": false,
+    "panelDisplay": false,
+    "showTalkDialog": true,
+    "textX": 743,
+    "textY": 480,
+    "textSize": 16,
+    "autoTalk": 0,
+    "resolution": "2k",
+    "startAnimation": "Start_Idle_01",
+    "startScene": true,
+    "language": "Bahasa Indonesia"
+  },
+  "EventInfos": [
+    {
+      "BoneName": "R_Arm_02",
+      "Width": 1500,
+      "Height": 800,
+      "Animations": [
+        "Talk_01_M",
+        "Talk_02_M",
+        "Talk_03_M",
+        "Talk_04_M",
+        "Talk_05_M"
+      ],
+      "AnimationIndex": 10,
+      "TextIndex": 0,
+      "ClickType": "pointerdown",
+      "EmptyAnimation": true
+    },
+    {
+      "BoneName": "F_Hair_010",
+      "Width": 800,
+      "Height": 500,
+      "Animations": [
+        "Pat_01_M"
+      ],
+      "AnimationIndex": 20,
+      "TextIndex": 0,
+      "ClickType": "pointerdown",
+      "EmptyAnimation": false
+    }
+  ],
+  "AnimationsTexts": {
+    "中文": {
+      "sound/CH0197_MemorialLobby_1_1": "老师，你知道吗？",
+      "sound/CH0197_MemorialLobby_1_2": "过新年的时候，除了御节料理之外，还有很多其他的菜肴呢！",
+      "sound/CH0197_MemorialLobby_1_3": "所以，我准备了好多好多！",
+      "sound/CH0197_MemorialLobby_2_1": "我？我……",
+      "sound/CH0197_MemorialLobby_2_2": "只要看着老师吃东西，我就觉得很开心呢？",
+      "sound/CH0197_MemorialLobby_3_1": "除此之外……只要能和老师这样",
+      "sound/CH0197_MemorialLobby_3_2": "两个人在一起，我就很满足了！吧！",
+      "sound/CH0197_MemorialLobby_4_1": "啊！嗯……",
+      "sound/CH0197_MemorialLobby_4_2": "我说了点令人害羞的话……",
+      "sound/CH0197_MemorialLobby_5_1": "不、不过！因为很开心！",
+      "sound/CH0197_MemorialLobby_5_2": "没问题！没关系！"
+    },
+    "日本語": {
+      "sound/CH0197_MemorialLobby_1_1": "あのね、先生。",
+      "sound/CH0197_MemorialLobby_1_2": "お正月の料理って、おせちの他にもいろいろあるんだって！",
+      "sound/CH0197_MemorialLobby_1_3": "だから、い～っぱい用意してみたの！",
+      "sound/CH0197_MemorialLobby_2_1": "私？私は……",
+      "sound/CH0197_MemorialLobby_2_2": "先生が食べてるとこ、見てるだけで幸せだよ？",
+      "sound/CH0197_MemorialLobby_3_1": "あとは……先生とこうして",
+      "sound/CH0197_MemorialLobby_3_2": "二人でいられたらそれで満足！かな！",
+      "sound/CH0197_MemorialLobby_4_1": "あっ！えっと……",
+      "sound/CH0197_MemorialLobby_4_2": "ちょっと、恥ずかしいこと言っちゃった……",
+      "sound/CH0197_MemorialLobby_5_1": "で、でも！幸せだから！",
+      "sound/CH0197_MemorialLobby_5_2": "問題ない！大丈夫！"
+    },
+    "Bahasa Indonesia": {
+      "sound/CH0197_MemorialLobby_1_1": "Eh, tau nggak, Sensei?",
+      "sound/CH0197_MemorialLobby_1_2": "Pas Tahun Baru, ternyata selain osechi, masih banyak makanan enak lainnya lho!",
+      "sound/CH0197_MemorialLobby_1_3": "Jadi deh, aku siapin banyaaak banget~!",
+      "sound/CH0197_MemorialLobby_2_1": "Aku? Aku tuh...",
+      "sound/CH0197_MemorialLobby_2_2": "Cuma liat kamu makan aja, aku udah bahagia banget, tau~",
+      "sound/CH0197_MemorialLobby_3_1": "Terus juga... asal bisa kayak gini bareng kamu,",
+      "sound/CH0197_MemorialLobby_3_2": "berdua doang gini aja, aku udah seneng banget kok!",
+      "sound/CH0197_MemorialLobby_4_1": "Ah! Umm...",
+      "sound/CH0197_MemorialLobby_4_2": "Aku ngomong sesuatu yang agak bikin malu ya...",
+      "sound/CH0197_MemorialLobby_5_1": "T-tapi! Soalnya aku beneran happy banget!",
+      "sound/CH0197_MemorialLobby_5_2": "Nggak papa kok! Aman aja~!"
+    }
+  }
+}
